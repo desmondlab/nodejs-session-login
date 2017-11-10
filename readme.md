@@ -13,5 +13,5 @@ Session store:
 In general, session can be saved in :
 1. memory storage
 2. cookie
-3. memory caching, redis or memcached etc
+3. memory caching, e.g. redis or memcached etc
 4. database, e.g. mongoDB

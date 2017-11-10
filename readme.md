@@ -1,6 +1,6 @@
 # nodejs-session-login
 
-To use session in express, it has to use [express-session](https://github.com/expressjs/session). <br/>
+To use session in express, [express-session](https://github.com/expressjs/session) has to be used. <br/>
 
 From the official documents:
 1. Session data is not saved in the cookie itself, just the session ID. Session data is stored server-side. 

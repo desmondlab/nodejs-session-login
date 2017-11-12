@@ -10,7 +10,7 @@ From the official documents:
 
 Session store:
 
-In general, session can be saved in :
+In general, session can be stored in :
 1. memory storage
 2. cookie
 3. memory caching, e.g. redis or memcached etc (the most common)
